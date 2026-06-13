@@ -10,9 +10,9 @@ When I saw Stable pricing pages and help center language about “unlimited reci
 
 I did not expect “unlimited” to later become the reason Stable would pressure me into a much more expensive plan.
 
-![Stable pricing page showing recipient language](../assets/pricing-unlimited-recipients.png)
+![Stable pricing page showing recipient language](assets/pricing-unlimited-recipients.png)
 
-![Stable help center about recipients and users](../assets/help-center-recipients-users.png)
+![Stable help center about recipients and users](assets/help-center-recipients-users.png)
 
 ## The Feeling Was Not a Friendly Upgrade
 
@@ -38,7 +38,7 @@ The user should not learn the real rule only after the address has already been 
 
 I also experienced confusion around scanning features. My understanding from Stable pricing or product language was that certain scanning features were included, but I was later told that higher plans or additional fees were required.
 
-![Stable pricing or scanning plan screenshot](../assets/pricing-scanning-plan.png)
+![Stable pricing or scanning plan screenshot](assets/pricing-scanning-plan.png)
 
 ## It Was Not Just About $200
 
@@ -48,11 +48,11 @@ If I had not yet used the Stable address, I could walk away. But after IRS, bank
 
 That is why the upgrade pressure felt coercive. It was not a friendly reminder. It was not a conversation. It was the feeling of being pushed against a wall: pay or be cut off.
 
-![Stable upgrade pressure 1](../assets/upgrade-pressure-1.png)
+![Stable upgrade pressure 1](assets/upgrade-pressure-1.png)
 
-![Stable upgrade pressure 2](../assets/upgrade-pressure-2.png)
+![Stable upgrade pressure 2](assets/upgrade-pressure-2.png)
 
-![Stable upgrade ultimatum](../assets/upgrade-ultimatum.png)
+![Stable upgrade ultimatum](assets/upgrade-ultimatum.png)
 
 ## “Unlimited” Should Not Only Work in Marketing
 

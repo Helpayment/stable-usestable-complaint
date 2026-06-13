@@ -22,9 +22,9 @@ This was not like losing a small item. I had to obtain a new passport. My old pa
 
 ## Evidence Screenshots
 
-![Passport communication 1](../assets/passport-communication-1.png)
+![Passport communication 1](assets/passport-communication-1.png)
 
-![Passport communication 2](../assets/passport-communication-2.png)
+![Passport communication 2](assets/passport-communication-2.png)
 
 ## Why It Matters
 

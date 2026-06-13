@@ -1,6 +1,6 @@
 .obsidian/
 articles-cn/
 Pasted image *.png
-/*.md
-!/README.md
+/*usestable*.md
+/*1.md
 .DS_Store

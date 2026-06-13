@@ -18,19 +18,19 @@ This is a basic accounting question. A business needs to know who was paid and h
 
 I did not receive a clear explanation.
 
-![Billing question email](../assets/billing-question-email.png)
+![Billing question email](assets/billing-question-email.png)
 
 ## I Later Found a Nonprofit Website
 
 Here is the billing screenshot showing the confusing descriptor:
 
-![Stable Companions Donations billing screenshot](../assets/billing-stable-companions-donations.png)
+![Stable Companions Donations billing screenshot](assets/billing-stable-companions-donations.png)
 
 I searched the merchant name and found a related nonprofit website:
 
 <https://www.stablecompanionscharity.org/>
 
-![Stable Companions charity search](../assets/stable-companions-charity-search.png)
+![Stable Companions charity search](assets/stable-companions-charity-search.png)
 
 I am not claiming, without evidence, that the website and Stable / useStable / www.usestable.com are necessarily connected. But as the paying customer, I have the right to ask why a commercial Stable virtual address / mailbox fee appeared with a donation-like billing descriptor.
 

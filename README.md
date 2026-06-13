@@ -16,25 +16,25 @@ This archive explains why I believe Stable / useStable / www.usestable.com misha
 
 I allege that Stable mishandled my passport after prior communication about keeping the document for an extended period. Even if Stable later apologized or offered membership credit, the passport itself had already been destroyed. That forced me to obtain a new passport and later explain why my identity records changed across Stripe, PayPal, banks, Stable, and other business accounts.
 
-Read: [Passport Destroyed by Stable](./articles-en/01-passport-destruction-en.md)
+Read: [Passport Destroyed by Stable](01-passport-destruction-en.md)
 
 ### 2. “Unlimited recipients” followed by a $200/month upgrade ultimatum
 
 Stable / useStable / www.usestable.com appeared to market or describe recipient handling in a way that made me believe the service could support real business mail operations. After my business address was already tied to tax, banking, payment, and customer systems, I felt pressured to upgrade to a much more expensive plan or risk losing access to the address and mail.
 
-Read: [Unlimited Recipients and Forced Upgrade](./articles-en/02-pricing-recipients-upgrade-en.md)
+Read: [Unlimited Recipients and Forced Upgrade](02-pricing-recipients-upgrade-en.md)
 
 ### 3. Sudden account shutdown without a real transition period
 
 Stable closed or refused to restore my account while I still needed time to move a business address, handle mail in transit, and notify institutions. A refund did not solve the real problem: IRS letters, bank mail, customer mail, and government correspondence cannot be fixed by refunding a subscription.
 
-Read: [Account Shutdown and Missing Transition Period](./articles-en/03-account-shutdown-and-risk-review-en.md)
+Read: [Account Shutdown and Missing Transition Period](03-account-shutdown-and-risk-review-en.md)
 
 ### 4. Billing descriptor appeared as “Stable Companions Donations”
 
 I paid for Stable business address / virtual mailbox services, not a donation. Yet the billing descriptor appeared similar to **Stable Companions Donations**. I later found a related nonprofit website, <https://www.stablecompanionscharity.org/>, and asked Stable to explain why a commercial service fee appeared this way.
 
-Read: [Stable Companions Donations Billing Question](./articles-en/04-nonprofit-billing-question-en.md)
+Read: [Stable Companions Donations Billing Question](04-nonprofit-billing-question-en.md)
 
 ### 5. Arbitration and consumer complaint process
 
@@ -42,8 +42,8 @@ Stable’s Terms of Service at <https://www.usestable.com/terms> identify **Mist
 
 Read:
 
-- [How I Plan to File Arbitration Against Stable](./articles-en/05-arbitration-process-en.md)
-- [How I Plan to File a State Attorney General Complaint About Stable](./articles-en/06-state-ag-complaint-process-en.md)
+- [How I Plan to File Arbitration Against Stable](05-arbitration-process-en.md)
+- [How I Plan to File a State Attorney General Complaint About Stable](06-state-ag-complaint-process-en.md)
 
 ## Evidence Screenshots
 
