@@ -1,0 +1,6 @@
+.obsidian/
+articles-cn/
+Pasted image *.png
+/*.md
+!/README.md
+.DS_Store
